@@ -1,0 +1,27 @@
+{
+	"name": "electron-app",
+	"version": "1.0.0",
+	"description": "First electron app",
+	"main": "src/main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "electron ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/martinfacc/electron-app.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/martinfacc/electron-app/issues"
+	},
+	"homepage": "https://github.com/martinfacc/electron-app#readme",
+	"dependencies": {
+		"electron": "^20.0.3"
+	},
+	"devDependencies": {
+		"eslint": "^8.22.0"
+	}
+}
